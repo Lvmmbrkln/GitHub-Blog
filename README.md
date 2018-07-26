@@ -1,6 +1,5 @@
 # README
-CASSAND Gwendoline & CASSAND Nancy
-
+Groupe de Gwen
 Lancer les commandes suivantes:
 --------------------------------
 $ bundle install
